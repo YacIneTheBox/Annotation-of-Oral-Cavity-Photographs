@@ -1,0 +1,489 @@
+filepath,filename,patient_id,class_name,label
+01. Normal/01. Unannotated/01. Dorsal tongue/6 - DT.jpg,6 - DT.jpg,NUM_6,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00014_R_DT.JPG,SMITA00014_R_DT.JPG,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00014_W_DT.jpeg,SMITA00014_W_DT.jpeg,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00015_R_DT.JPG,SMITA00015_R_DT.JPG,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00015_W_DT.jpeg,SMITA00015_W_DT.jpeg,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA000230_R_DT.jpeg,SMITA000230_R_DT.jpeg,SMITA_230,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA000235_R_DT.jpeg,SMITA000235_R_DT.jpeg,SMITA_235,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00024-1_R_DT.JPG,SMITA00024-1_R_DT.JPG,SMITA_24,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00025-1_R_DT.JPG,SMITA00025-1_R_DT.JPG,SMITA_25,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA000252_R_DT.jpeg,SMITA000252_R_DT.jpeg,SMITA_252,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00034_R_DT.JPG,SMITA00034_R_DT.JPG,SMITA_34,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00055_R_DT.jpg,SMITA00055_R_DT.jpg,SMITA_55,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00056_R_DT.jpeg,SMITA00056_R_DT.jpeg,SMITA_56,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00061_R-DT.jpg,SMITA00061_R-DT.jpg,SMITA_61,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00071_R_DT.jpg,SMITA00071_R_DT.jpg,SMITA_71,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00073_R_DT.jpg,SMITA00073_R_DT.jpg,SMITA_73,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00086_R_DT.jpg,SMITA00086_R_DT.jpg,SMITA_86,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00089_R_DT.jpg,SMITA00089_R_DT.jpg,SMITA_89,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00105_R_DT.jpeg,SMITA00105_R_DT.jpeg,SMITA_105,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00114_R_DT.jpeg,SMITA00114_R_DT.jpeg,SMITA_114,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00126_R_DT.jpeg,SMITA00126_R_DT.jpeg,SMITA_126,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00128_R_DT.jpeg,SMITA00128_R_DT.jpeg,SMITA_128,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00133_R_DT.jpg,SMITA00133_R_DT.jpg,SMITA_133,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00135_R_DT.jpg,SMITA00135_R_DT.jpg,SMITA_135,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00137_R_DT.jpeg,SMITA00137_R_DT.jpeg,SMITA_137,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00141_R_DT.jpeg,SMITA00141_R_DT.jpeg,SMITA_141,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00143_R_DT.jpeg,SMITA00143_R_DT.jpeg,SMITA_143,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00145_R_DT.jpg,SMITA00145_R_DT.jpg,SMITA_145,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00148_R_DT.jpeg,SMITA00148_R_DT.jpeg,SMITA_148,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00156_R_DT.jpg,SMITA00156_R_DT.jpg,SMITA_156,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00160_R_DT.jpeg,SMITA00160_R_DT.jpeg,SMITA_160,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00167_R_DT.jpeg,SMITA00167_R_DT.jpeg,SMITA_167,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00176_W-DT.jpg,SMITA00176_W-DT.jpg,SMITA_176,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00184_W_DT.jpg,SMITA00184_W_DT.jpg,SMITA_184,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00186_W_DT.jpg,SMITA00186_W_DT.jpg,SMITA_186,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00191_R_DT.jpg,SMITA00191_R_DT.jpg,SMITA_191,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00193_R_DT.jpeg,SMITA00193_R_DT.jpeg,SMITA_193,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00199_R_DT.jpeg,SMITA00199_R_DT.jpeg,SMITA_199,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00220_W_DT.jpeg,SMITA00220_W_DT.jpeg,SMITA_220,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00229_R_DT.jpg,SMITA00229_R_DT.jpg,SMITA_229,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00245_R_DT.jpg,SMITA00245_R_DT.jpg,SMITA_245,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00251_R_DT.jpg,SMITA00251_R_DT.jpg,SMITA_251,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00257_R_DT.jpeg,SMITA00257_R_DT.jpeg,SMITA_257,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00264_R_DT.jpeg,SMITA00264_R_DT.jpeg,SMITA_264,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00274_W_DT.jpg,SMITA00274_W_DT.jpg,SMITA_274,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00276_W_DT.jpg,SMITA00276_W_DT.jpg,SMITA_276,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00278_W_DT.jpeg,SMITA00278_W_DT.jpeg,SMITA_278,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00284_R_DT.jpg,SMITA00284_R_DT.jpg,SMITA_284,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00286_R_DT.jpeg,SMITA00286_R_DT.jpeg,SMITA_286,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00291_R_DT.jpeg,SMITA00291_R_DT.jpeg,SMITA_291,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00297_R_DT.jpeg,SMITA00297_R_DT.jpeg,SMITA_297,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00304_R_DT.jpeg,SMITA00304_R_DT.jpeg,SMITA_304,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00305_R_DT.jpeg,SMITA00305_R_DT.jpeg,SMITA_305,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00310_R_DT.jpg,SMITA00310_R_DT.jpg,SMITA_310,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00313_R_DT.jpg,SMITA00313_R_DT.jpg,SMITA_313,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00339_R_DT.jpeg,SMITA00339_R_DT.jpeg,SMITA_339,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00341_R_DT.jpeg,SMITA00341_R_DT.jpeg,SMITA_341,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00344_R_DT.jpeg,SMITA00344_R_DT.jpeg,SMITA_344,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/6 - VT.jpg,6 - VT.jpg,NUM_6,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00002_W_VT.jpeg,SMITA00002_W_VT.jpeg,SMITA_2,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00014_R_VT.JPG,SMITA00014_R_VT.JPG,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00014_W_VT.jpeg,SMITA00014_W_VT.jpeg,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00015_R_VT.JPG,SMITA00015_R_VT.JPG,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00015_W_VT.jpeg,SMITA00015_W_VT.jpeg,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00022_R_VT.jpg,SMITA00022_R_VT.jpg,SMITA_22,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA000230_R_VT.jpeg,SMITA000230_R_VT.jpeg,SMITA_230,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA000235_R_VT.jpeg,SMITA000235_R_VT.jpeg,SMITA_235,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00024-1_R_VT.JPG,SMITA00024-1_R_VT.JPG,SMITA_24,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00025-1_R_VT.JPG,SMITA00025-1_R_VT.JPG,SMITA_25,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA000252_R_VT.jpeg,SMITA000252_R_VT.jpeg,SMITA_252,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00034_R_VT.JPG,SMITA00034_R_VT.JPG,SMITA_34,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00055_R_VT.jpg,SMITA00055_R_VT.jpg,SMITA_55,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00056_R_VT.jpeg,SMITA00056_R_VT.jpeg,SMITA_56,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00061_R_VT.jpg,SMITA00061_R_VT.jpg,SMITA_61,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00071_R_VT.jpg,SMITA00071_R_VT.jpg,SMITA_71,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00073_R_VT.jpg,SMITA00073_R_VT.jpg,SMITA_73,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00084_R_VT.jpg,SMITA00084_R_VT.jpg,SMITA_84,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00086_R_VT.jpg,SMITA00086_R_VT.jpg,SMITA_86,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00089_R_VT.jpg,SMITA00089_R_VT.jpg,SMITA_89,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00105_R_VT.jpeg,SMITA00105_R_VT.jpeg,SMITA_105,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00114_R_VT.jpeg,SMITA00114_R_VT.jpeg,SMITA_114,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00126_R_VT.jpeg,SMITA00126_R_VT.jpeg,SMITA_126,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00128_R_VT.jpeg,SMITA00128_R_VT.jpeg,SMITA_128,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00133_R_VT.jpg,SMITA00133_R_VT.jpg,SMITA_133,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00135_R_VT.jpg,SMITA00135_R_VT.jpg,SMITA_135,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00137_R_VT.jpeg,SMITA00137_R_VT.jpeg,SMITA_137,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00141_R_VT.jpeg,SMITA00141_R_VT.jpeg,SMITA_141,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00143_R_VT.jpeg,SMITA00143_R_VT.jpeg,SMITA_143,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00145_R_VT.jpg,SMITA00145_R_VT.jpg,SMITA_145,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00148_R_VT.jpeg,SMITA00148_R_VT.jpeg,SMITA_148,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00156_R_VT.jpg,SMITA00156_R_VT.jpg,SMITA_156,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00160_R_VT.jpeg,SMITA00160_R_VT.jpeg,SMITA_160,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00167_R_VT.jpeg,SMITA00167_R_VT.jpeg,SMITA_167,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00176_W-VT.jpg,SMITA00176_W-VT.jpg,SMITA_176,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00184_W_VT.jpg,SMITA00184_W_VT.jpg,SMITA_184,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00186_W_VT.jpg,SMITA00186_W_VT.jpg,SMITA_186,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00191_R_VT.jpg,SMITA00191_R_VT.jpg,SMITA_191,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00193_R_VT.jpeg,SMITA00193_R_VT.jpeg,SMITA_193,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00199_R_VT.jpeg,SMITA00199_R_VT.jpeg,SMITA_199,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00220_W_VT.jpeg,SMITA00220_W_VT.jpeg,SMITA_220,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00229_R_VT.jpg,SMITA00229_R_VT.jpg,SMITA_229,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00245_R_VT.jpg,SMITA00245_R_VT.jpg,SMITA_245,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00251_R_VT.jpg,SMITA00251_R_VT.jpg,SMITA_251,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00257_R_VT.jpeg,SMITA00257_R_VT.jpeg,SMITA_257,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00264_R_VT.jpeg,SMITA00264_R_VT.jpeg,SMITA_264,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00276_W_VT.jpg,SMITA00276_W_VT.jpg,SMITA_276,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00284_R_VT.jpg,SMITA00284_R_VT.jpg,SMITA_284,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00286_R_VT.jpeg,SMITA00286_R_VT.jpeg,SMITA_286,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00291_R_VT.jpeg,SMITA00291_R_VT.jpeg,SMITA_291,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00297_R_VT.jpeg,SMITA00297_R_VT.jpeg,SMITA_297,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00304_R_VT.jpeg,SMITA00304_R_VT.jpeg,SMITA_304,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00305_R_VT.jpeg,SMITA00305_R_VT.jpeg,SMITA_305,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00310_R_VT.jpg,SMITA00310_R_VT.jpg,SMITA_310,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00313_R_VT.jpg,SMITA00313_R_VT.jpg,SMITA_313,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00339_R_VT.jpeg,SMITA00339_R_VT.jpeg,SMITA_339,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00341_R_VT.jpeg,SMITA00341_R_VT.jpeg,SMITA_341,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00344_R_VT.jpeg,SMITA00344_R_VT.jpeg,SMITA_344,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/6 - LB.jpg,6 - LB.jpg,NUM_6,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00002_W_LB3.jpeg,SMITA00002_W_LB3.jpeg,SMITA_2,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00015_R_LB.JPG,SMITA00015_R_LB.JPG,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00015_W_LB.jpeg,SMITA00015_W_LB.jpeg,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA000230_R_LB.jpeg,SMITA000230_R_LB.jpeg,SMITA_230,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA000235_R_LB.jpeg,SMITA000235_R_LB.jpeg,SMITA_235,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00024-1_R_LB.JPG,SMITA00024-1_R_LB.JPG,SMITA_24,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00024_R_LB.JPG,SMITA00024_R_LB.JPG,SMITA_24,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00025-1_R_LB.JPG,SMITA00025-1_R_LB.JPG,SMITA_25,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00055_R_LB.jpg,SMITA00055_R_LB.jpg,SMITA_55,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00056_R_LB.jpeg,SMITA00056_R_LB.jpeg,SMITA_56,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00071_R_LB.jpg,SMITA00071_R_LB.jpg,SMITA_71,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00086_R_LB.jpg,SMITA00086_R_LB.jpg,SMITA_86,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00105_R_LB.jpeg,SMITA00105_R_LB.jpeg,SMITA_105,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00114_R_LB.jpeg,SMITA00114_R_LB.jpeg,SMITA_114,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00126_R_LB.jpeg,SMITA00126_R_LB.jpeg,SMITA_126,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00128_R_LB.jpeg,SMITA00128_R_LB.jpeg,SMITA_128,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00133_R_LB.jpg,SMITA00133_R_LB.jpg,SMITA_133,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00135_R_LB.jpg,SMITA00135_R_LB.jpg,SMITA_135,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00137_R_LB.jpeg,SMITA00137_R_LB.jpeg,SMITA_137,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00143_R_LB.jpeg,SMITA00143_R_LB.jpeg,SMITA_143,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00145_R_LB.jpg,SMITA00145_R_LB.jpg,SMITA_145,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00148_R_LB.jpeg,SMITA00148_R_LB.jpeg,SMITA_148,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00156_R_LB.jpg,SMITA00156_R_LB.jpg,SMITA_156,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00160_R_LB.jpeg,SMITA00160_R_LB.jpeg,SMITA_160,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00186_W_LB.jpg,SMITA00186_W_LB.jpg,SMITA_186,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00193_R_LB.jpeg,SMITA00193_R_LB.jpeg,SMITA_193,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00220_W_LB.jpeg,SMITA00220_W_LB.jpeg,SMITA_220,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00229_R_LB.jpg,SMITA00229_R_LB.jpg,SMITA_229,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00245_R_LB.jpg,SMITA00245_R_LB.jpg,SMITA_245,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00257_R_LB.jpeg,SMITA00257_R_LB.jpeg,SMITA_257,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00264_R_LB.jpeg,SMITA00264_R_LB.jpeg,SMITA_264,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00286_R_LB.jpeg,SMITA00286_R_LB.jpeg,SMITA_286,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00291_R_LB.jpeg,SMITA00291_R_LB.jpeg,SMITA_291,03. OPMD,2
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00297_R_LB.jpeg,SMITA00297_R_LB.jpeg,SMITA_297,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00302_R_LB.jpeg,SMITA00302_R_LB.jpeg,SMITA_302,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00305_R_LB.jpeg,SMITA00305_R_LB.jpeg,SMITA_305,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00313_R_LB.jpg,SMITA00313_R_LB.jpg,SMITA_313,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00339_R_LB.jpeg,SMITA00339_R_LB.jpeg,SMITA_339,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00341_R_LB.jpeg,SMITA00341_R_LB.jpeg,SMITA_341,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00344_R_LB.jpeg,SMITA00344_R_LB.jpeg,SMITA_344,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/6 - RB.jpg,6 - RB.jpg,NUM_6,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00002_W_RB.jpeg,SMITA00002_W_RB.jpeg,SMITA_2,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00014_R_RB.JPG,SMITA00014_R_RB.JPG,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00015_R_RB.JPG,SMITA00015_R_RB.JPG,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00015_W_RB.jpeg,SMITA00015_W_RB.jpeg,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA000230_R_RB.jpeg,SMITA000230_R_RB.jpeg,SMITA_230,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA000235_R_RB.jpeg,SMITA000235_R_RB.jpeg,SMITA_235,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00024-1_R_RB.JPG,SMITA00024-1_R_RB.JPG,SMITA_24,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00025-1_R_RB.JPG,SMITA00025-1_R_RB.JPG,SMITA_25,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA000252_R_RB.jpeg,SMITA000252_R_RB.jpeg,SMITA_252,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00055_R_RB.jpg,SMITA00055_R_RB.jpg,SMITA_55,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00056_R_RB.jpeg,SMITA00056_R_RB.jpeg,SMITA_56,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00071_R_RB.jpg,SMITA00071_R_RB.jpg,SMITA_71,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00086_R_RB.jpg,SMITA00086_R_RB.jpg,SMITA_86,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00105_R_RB.jpeg,SMITA00105_R_RB.jpeg,SMITA_105,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00114_R_RB.jpeg,SMITA00114_R_RB.jpeg,SMITA_114,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00126_R_RB.jpeg,SMITA00126_R_RB.jpeg,SMITA_126,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00128_R_RB.jpeg,SMITA00128_R_RB.jpeg,SMITA_128,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00133_R_RB.jpg,SMITA00133_R_RB.jpg,SMITA_133,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00135_R_RB.jpg,SMITA00135_R_RB.jpg,SMITA_135,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00137_R_RB.jpeg,SMITA00137_R_RB.jpeg,SMITA_137,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00143_R_RB.jpeg,SMITA00143_R_RB.jpeg,SMITA_143,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00145_R_RB.jpg,SMITA00145_R_RB.jpg,SMITA_145,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00148_R_RB.jpeg,SMITA00148_R_RB.jpeg,SMITA_148,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00156_R_RB.jpg,SMITA00156_R_RB.jpg,SMITA_156,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00160_R_RB.jpeg,SMITA00160_R_RB.jpeg,SMITA_160,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00167_R_RB.jpeg,SMITA00167_R_RB.jpeg,SMITA_167,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00186_W_RB.jpg,SMITA00186_W_RB.jpg,SMITA_186,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00191_R_RB.jpg,SMITA00191_R_RB.jpg,SMITA_191,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00193_R_RB.jpeg,SMITA00193_R_RB.jpeg,SMITA_193,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00199_R_RB.jpeg,SMITA00199_R_RB.jpeg,SMITA_199,01. Normal,0
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00220_W_RB.jpeg,SMITA00220_W_RB.jpeg,SMITA_220,03. OPMD,2
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00229_R_RB.jpg,SMITA00229_R_RB.jpg,SMITA_229,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00245_R_RB.jpg,SMITA00245_R_RB.jpg,SMITA_245,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00257_R_RB.jpeg,SMITA00257_R_RB.jpeg,SMITA_257,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00264_R_RB.jpeg,SMITA00264_R_RB.jpeg,SMITA_264,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00284_R_RB.jpg,SMITA00284_R_RB.jpg,SMITA_284,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00286_R_RB.jpeg,SMITA00286_R_RB.jpeg,SMITA_286,01. Normal,0
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00291_R_RB.jpeg,SMITA00291_R_RB.jpeg,SMITA_291,03. OPMD,2
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00297_R_RB.jpeg,SMITA00297_R_RB.jpeg,SMITA_297,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00302_R_RB.jpeg,SMITA00302_R_RB.jpeg,SMITA_302,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00304_R_RB.jpeg,SMITA00304_R_RB.jpeg,SMITA_304,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00305_R_RB.jpeg,SMITA00305_R_RB.jpeg,SMITA_305,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00313_R_RB.jpg,SMITA00313_R_RB.jpg,SMITA_313,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00339_R_RB.jpeg,SMITA00339_R_RB.jpeg,SMITA_339,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00341_R_RB.jpeg,SMITA00341_R_RB.jpeg,SMITA_341,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00344_R_RB.jpeg,SMITA00344_R_RB.jpeg,SMITA_344,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/6 - UL.jpg,6 - UL.jpg,NUM_6,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00002_W_UL.jpeg,SMITA00002_W_UL.jpeg,SMITA_2,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00014_R_UL.JPG,SMITA00014_R_UL.JPG,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00014_W_UL.jpeg,SMITA00014_W_UL.jpeg,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00015_R_UL.JPG,SMITA00015_R_UL.JPG,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00015_W_UL.jpeg,SMITA00015_W_UL.jpeg,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00022_R_UL.jpg,SMITA00022_R_UL.jpg,SMITA_22,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA000230_R_UL.jpeg,SMITA000230_R_UL.jpeg,SMITA_230,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA000235_R_UL.jpeg,SMITA000235_R_UL.jpeg,SMITA_235,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00024-1_R_UL.JPG,SMITA00024-1_R_UL.JPG,SMITA_24,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA000252_R_UL.jpeg,SMITA000252_R_UL.jpeg,SMITA_252,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00034_R_UL.JPG,SMITA00034_R_UL.JPG,SMITA_34,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00055_R_UL.jpg,SMITA00055_R_UL.jpg,SMITA_55,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00056_R_UL.jpeg,SMITA00056_R_UL.jpeg,SMITA_56,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00061_R_UL.jpg,SMITA00061_R_UL.jpg,SMITA_61,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00071_R_UL.jpg,SMITA00071_R_UL.jpg,SMITA_71,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00073_R_UL.jpg,SMITA00073_R_UL.jpg,SMITA_73,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00084_R_UL.jpg,SMITA00084_R_UL.jpg,SMITA_84,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00086_R_UL.jpg,SMITA00086_R_UL.jpg,SMITA_86,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00089_R_UL.jpg,SMITA00089_R_UL.jpg,SMITA_89,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00105_R_UL.jpeg,SMITA00105_R_UL.jpeg,SMITA_105,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00114_R_UL.jpeg,SMITA00114_R_UL.jpeg,SMITA_114,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00128_R_UL.jpeg,SMITA00128_R_UL.jpeg,SMITA_128,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00133_R_UL.jpg,SMITA00133_R_UL.jpg,SMITA_133,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00135_R_UL.jpg,SMITA00135_R_UL.jpg,SMITA_135,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00137_R_UL.jpeg,SMITA00137_R_UL.jpeg,SMITA_137,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00143_R_UL.jpeg,SMITA00143_R_UL.jpeg,SMITA_143,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00145_R_UL.jpg,SMITA00145_R_UL.jpg,SMITA_145,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00148_R_UL.jpeg,SMITA00148_R_UL.jpeg,SMITA_148,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00156_R_UL.jpg,SMITA00156_R_UL.jpg,SMITA_156,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00160_R_UL.jpeg,SMITA00160_R_UL.jpeg,SMITA_160,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00167_R_UL.jpeg,SMITA00167_R_UL.jpeg,SMITA_167,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00176_W-UL.jpg,SMITA00176_W-UL.jpg,SMITA_176,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00184_W_UL.jpg,SMITA00184_W_UL.jpg,SMITA_184,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00186_W_UL.jpg,SMITA00186_W_UL.jpg,SMITA_186,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00191_R_UL.jpg,SMITA00191_R_UL.jpg,SMITA_191,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00193_R_UL.jpeg,SMITA00193_R_UL.jpeg,SMITA_193,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00199_R_UL.jpeg,SMITA00199_R_UL.jpeg,SMITA_199,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00220_W_UL.jpeg,SMITA00220_W_UL.jpeg,SMITA_220,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00229_R_UL.jpg,SMITA00229_R_UL.jpg,SMITA_229,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00245_R_UL.jpg,SMITA00245_R_UL.jpg,SMITA_245,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00251_R_UL.jpg,SMITA00251_R_UL.jpg,SMITA_251,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00257_R_UL.jpeg,SMITA00257_R_UL.jpeg,SMITA_257,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00264_R_UL.jpeg,SMITA00264_R_UL.jpeg,SMITA_264,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00274_W_UL.jpg,SMITA00274_W_UL.jpg,SMITA_274,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00276_W_UL.jpg,SMITA00276_W_UL.jpg,SMITA_276,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00284_R_UL.jpg,SMITA00284_R_UL.jpg,SMITA_284,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00286_R_UL.jpeg,SMITA00286_R_UL.jpeg,SMITA_286,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00291_R_UL.jpeg,SMITA00291_R_UL.jpeg,SMITA_291,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00297_R_UL.jpeg,SMITA00297_R_UL.jpeg,SMITA_297,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00305_R_UL.jpeg,SMITA00305_R_UL.jpeg,SMITA_305,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00310_R_UL.jpg,SMITA00310_R_UL.jpg,SMITA_310,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00339_R_UL.jpeg,SMITA00339_R_UL.jpeg,SMITA_339,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00341_R_UL.jpeg,SMITA00341_R_UL.jpeg,SMITA_341,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00344_R_UL.jpeg,SMITA00344_R_UL.jpeg,SMITA_344,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/6 - LL.jpg,6 - LL.jpg,NUM_6,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00014_W_LL.jpeg,SMITA00014_W_LL.jpeg,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00015_R_LL.JPG,SMITA00015_R_LL.JPG,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00022_R_LL.jpg,SMITA00022_R_LL.jpg,SMITA_22,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA000230_R_LL.jpeg,SMITA000230_R_LL.jpeg,SMITA_230,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA000235_R_LL.jpeg,SMITA000235_R_LL.jpeg,SMITA_235,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00024-1_R_LL.JPG,SMITA00024-1_R_LL.JPG,SMITA_24,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA000252_R_LL.jpeg,SMITA000252_R_LL.jpeg,SMITA_252,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00025_R_LL.JPG,SMITA00025_R_LL.JPG,SMITA_25,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00034_R_LL.JPG,SMITA00034_R_LL.JPG,SMITA_34,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00055_R_LL.jpg,SMITA00055_R_LL.jpg,SMITA_55,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00056_R_LL.jpeg,SMITA00056_R_LL.jpeg,SMITA_56,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00061_R_LL.jpg,SMITA00061_R_LL.jpg,SMITA_61,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00071_R_LL.jpg,SMITA00071_R_LL.jpg,SMITA_71,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00073_R_LL.jpg,SMITA00073_R_LL.jpg,SMITA_73,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00084_R_LL.jpg,SMITA00084_R_LL.jpg,SMITA_84,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00086_R_LL.jpg,SMITA00086_R_LL.jpg,SMITA_86,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00089_R_LL.jpg,SMITA00089_R_LL.jpg,SMITA_89,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00105_R_LL.jpeg,SMITA00105_R_LL.jpeg,SMITA_105,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00114_R_LL.jpeg,SMITA00114_R_LL.jpeg,SMITA_114,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00128_R_LL.jpeg,SMITA00128_R_LL.jpeg,SMITA_128,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00133_R_LL.jpg,SMITA00133_R_LL.jpg,SMITA_133,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00135_R_LL.jpg,SMITA00135_R_LL.jpg,SMITA_135,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00137_R_LL.jpeg,SMITA00137_R_LL.jpeg,SMITA_137,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00141_R_LL.jpeg,SMITA00141_R_LL.jpeg,SMITA_141,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00143_R_LL.jpeg,SMITA00143_R_LL.jpeg,SMITA_143,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00145_R_LL.jpg,SMITA00145_R_LL.jpg,SMITA_145,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00148_R_LL.jpeg,SMITA00148_R_LL.jpeg,SMITA_148,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00156_R_LL.jpg,SMITA00156_R_LL.jpg,SMITA_156,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00160_R_LL.jpeg,SMITA00160_R_LL.jpeg,SMITA_160,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00167_R_LL2.jpeg,SMITA00167_R_LL2.jpeg,SMITA_167,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00176_W_LL.jpg,SMITA00176_W_LL.jpg,SMITA_176,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00184_W_LL.jpeg,SMITA00184_W_LL.jpeg,SMITA_184,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00186_W_LL.jpg,SMITA00186_W_LL.jpg,SMITA_186,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00191_R_LL.jpg,SMITA00191_R_LL.jpg,SMITA_191,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00193_R_LL.jpeg,SMITA00193_R_LL.jpeg,SMITA_193,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00199_R_LL.jpeg,SMITA00199_R_LL.jpeg,SMITA_199,01. Normal,0
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00220_W_LL1.jpeg,SMITA00220_W_LL1.jpeg,SMITA_220,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00220_W_LL2.jpeg,SMITA00220_W_LL2.jpeg,SMITA_220,02. Variation from normal,1
+01. Normal/01. Unannotated/06. Lower lip/SMITA00229_R_LL.jpg,SMITA00229_R_LL.jpg,SMITA_229,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00245_R_LL.jpg,SMITA00245_R_LL.jpg,SMITA_245,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00251_R_LL.jpg,SMITA00251_R_LL.jpg,SMITA_251,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00257_R_LL.jpeg,SMITA00257_R_LL.jpeg,SMITA_257,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00264_R_LL.jpeg,SMITA00264_R_LL.jpeg,SMITA_264,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00274_W_LL.jpg,SMITA00274_W_LL.jpg,SMITA_274,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00284_R_LL.jpg,SMITA00284_R_LL.jpg,SMITA_284,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00286_R_LL.jpeg,SMITA00286_R_LL.jpeg,SMITA_286,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00291_R_LL.jpeg,SMITA00291_R_LL.jpeg,SMITA_291,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00297_R_LL.jpeg,SMITA00297_R_LL.jpeg,SMITA_297,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00304_R_LL.jpeg,SMITA00304_R_LL.jpeg,SMITA_304,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00305_R_LL.jpeg,SMITA00305_R_LL.jpeg,SMITA_305,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00310_R_LL.jpg,SMITA00310_R_LL.jpg,SMITA_310,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00313_R_LL.jpg,SMITA00313_R_LL.jpg,SMITA_313,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00339_R_LL.jpeg,SMITA00339_R_LL.jpeg,SMITA_339,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00341_R_LL.jpeg,SMITA00341_R_LL.jpeg,SMITA_341,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/6 - UA.jpg,6 - UA.jpg,NUM_6,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00002_W_UA.jpeg,SMITA00002_W_UA.jpeg,SMITA_2,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00014_R_UA.JPG,SMITA00014_R_UA.JPG,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00014_W_UA.jpeg,SMITA00014_W_UA.jpeg,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00015_R_UA.JPG,SMITA00015_R_UA.JPG,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA000230_R_UA.jpeg,SMITA000230_R_UA.jpeg,SMITA_230,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA000235_R_UA.jpeg,SMITA000235_R_UA.jpeg,SMITA_235,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00024-1_R_UA.JPG,SMITA00024-1_R_UA.JPG,SMITA_24,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00025-1_R_UA.JPG,SMITA00025-1_R_UA.JPG,SMITA_25,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA000252_R_UA.jpeg,SMITA000252_R_UA.jpeg,SMITA_252,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00034_R_UA.JPG,SMITA00034_R_UA.JPG,SMITA_34,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00055_R_UA.jpg,SMITA00055_R_UA.jpg,SMITA_55,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00056_R_UA.jpeg,SMITA00056_R_UA.jpeg,SMITA_56,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00071_R_UA.jpg,SMITA00071_R_UA.jpg,SMITA_71,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00073_R_UA.jpg,SMITA00073_R_UA.jpg,SMITA_73,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00084_R_UA.jpg,SMITA00084_R_UA.jpg,SMITA_84,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00086_R_UA.jpg,SMITA00086_R_UA.jpg,SMITA_86,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00089_R_UA.jpg,SMITA00089_R_UA.jpg,SMITA_89,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00105_R_UA.jpeg,SMITA00105_R_UA.jpeg,SMITA_105,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00114_R_UA.jpeg,SMITA00114_R_UA.jpeg,SMITA_114,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00126_R_UA.jpeg,SMITA00126_R_UA.jpeg,SMITA_126,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00128_R_UA.jpeg,SMITA00128_R_UA.jpeg,SMITA_128,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00135_R_UA.jpg,SMITA00135_R_UA.jpg,SMITA_135,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00137_R_UA.jpeg,SMITA00137_R_UA.jpeg,SMITA_137,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00141_R_UA.jpeg,SMITA00141_R_UA.jpeg,SMITA_141,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00143_R_UA.jpeg,SMITA00143_R_UA.jpeg,SMITA_143,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00145_R_UA.jpg,SMITA00145_R_UA.jpg,SMITA_145,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00148_R_UA.jpeg,SMITA00148_R_UA.jpeg,SMITA_148,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00156_R_UA.jpg,SMITA00156_R_UA.jpg,SMITA_156,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00160_R_UA.jpeg,SMITA00160_R_UA.jpeg,SMITA_160,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00167_R_UA.jpeg,SMITA00167_R_UA.jpeg,SMITA_167,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00176_W_UA.jpg,SMITA00176_W_UA.jpg,SMITA_176,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00184_W_UA.jpg,SMITA00184_W_UA.jpg,SMITA_184,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00186_W_UA.jpg,SMITA00186_W_UA.jpg,SMITA_186,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00191_R_UA.jpg,SMITA00191_R_UA.jpg,SMITA_191,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00193_R_UA.jpeg,SMITA00193_R_UA.jpeg,SMITA_193,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00199_R_UA.jpeg,SMITA00199_R_UA.jpeg,SMITA_199,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00220_W_UA.jpeg,SMITA00220_W_UA.jpeg,SMITA_220,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00229_R_UA.jpg,SMITA00229_R_UA.jpg,SMITA_229,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00245_R_UA.jpg,SMITA00245_R_UA.jpg,SMITA_245,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00251_R_UA.jpg,SMITA00251_R_UA.jpg,SMITA_251,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00257_R_UA.jpeg,SMITA00257_R_UA.jpeg,SMITA_257,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00264_R_UA.jpeg,SMITA00264_R_UA.jpeg,SMITA_264,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00274_W_UA.jpg,SMITA00274_W_UA.jpg,SMITA_274,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00284_R_UA.jpg,SMITA00284_R_UA.jpg,SMITA_284,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00286_R_UA.jpeg,SMITA00286_R_UA.jpeg,SMITA_286,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00297_R_UA.jpeg,SMITA00297_R_UA.jpeg,SMITA_297,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00302_R_UA.jpeg,SMITA00302_R_UA.jpeg,SMITA_302,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00304_R_UA.jpeg,SMITA00304_R_UA.jpeg,SMITA_304,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00305_R_UA.jpeg,SMITA00305_R_UA.jpeg,SMITA_305,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00310_R_UA.jpg,SMITA00310_R_UA.jpg,SMITA_310,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00313_R_UA.jpg,SMITA00313_R_UA.jpg,SMITA_313,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00339_R_UA.jpeg,SMITA00339_R_UA.jpeg,SMITA_339,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00341_R_UA.jpeg,SMITA00341_R_UA.jpeg,SMITA_341,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00344_R_UA.jpeg,SMITA00344_R_UA.jpeg,SMITA_344,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/6 - LA.jpg,6 - LA.jpg,NUM_6,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00002_W_LA.jpeg,SMITA00002_W_LA.jpeg,SMITA_2,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00014_R_LA.JPG,SMITA00014_R_LA.JPG,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00014_W_LA.jpeg,SMITA00014_W_LA.jpeg,SMITA_14,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00015_R_LA.JPG,SMITA00015_R_LA.JPG,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00015_W_LA.jpeg,SMITA00015_W_LA.jpeg,SMITA_15,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00022_R_LA.jpg,SMITA00022_R_LA.jpg,SMITA_22,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA000230_R_LA.jpeg,SMITA000230_R_LA.jpeg,SMITA_230,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA000235_R_LA.jpeg,SMITA000235_R_LA.jpeg,SMITA_235,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00024-1_R_LA.JPG,SMITA00024-1_R_LA.JPG,SMITA_24,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00025-1_R_LA.JPG,SMITA00025-1_R_LA.JPG,SMITA_25,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA000252_R_LA.jpeg,SMITA000252_R_LA.jpeg,SMITA_252,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00034_R_LA.JPG,SMITA00034_R_LA.JPG,SMITA_34,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00055_R_LA.jpg,SMITA00055_R_LA.jpg,SMITA_55,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00056_R_LA.jpeg,SMITA00056_R_LA.jpeg,SMITA_56,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00061_R_LA.jpg,SMITA00061_R_LA.jpg,SMITA_61,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00071_R_LA.jpg,SMITA00071_R_LA.jpg,SMITA_71,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00073_R_LA.jpg,SMITA00073_R_LA.jpg,SMITA_73,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00084_R_LA.jpg,SMITA00084_R_LA.jpg,SMITA_84,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00086_R_LA.jpg,SMITA00086_R_LA.jpg,SMITA_86,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00089_R_LA.jpg,SMITA00089_R_LA.jpg,SMITA_89,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00105_R_LA.jpeg,SMITA00105_R_LA.jpeg,SMITA_105,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00114_R_LA.jpeg,SMITA00114_R_LA.jpeg,SMITA_114,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00126_R_LA.jpeg,SMITA00126_R_LA.jpeg,SMITA_126,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00128_R_LA.jpeg,SMITA00128_R_LA.jpeg,SMITA_128,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00133_R_LA.jpg,SMITA00133_R_LA.jpg,SMITA_133,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00135_R_LA.jpg,SMITA00135_R_LA.jpg,SMITA_135,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00137_R_LA.jpeg,SMITA00137_R_LA.jpeg,SMITA_137,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00141_R_LA.jpeg,SMITA00141_R_LA.jpeg,SMITA_141,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00143_R_LA.jpeg,SMITA00143_R_LA.jpeg,SMITA_143,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00145_R_LA.jpg,SMITA00145_R_LA.jpg,SMITA_145,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00148_R_LA.jpeg,SMITA00148_R_LA.jpeg,SMITA_148,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00156_R_LA.jpg,SMITA00156_R_LA.jpg,SMITA_156,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00160_R_LA.jpeg,SMITA00160_R_LA.jpeg,SMITA_160,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00167_R_LA.jpeg,SMITA00167_R_LA.jpeg,SMITA_167,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00176_W_LA.jpg,SMITA00176_W_LA.jpg,SMITA_176,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00184_W_LA.jpg,SMITA00184_W_LA.jpg,SMITA_184,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00186_W_LA.jpg,SMITA00186_W_LA.jpg,SMITA_186,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00191_R_LA.jpg,SMITA00191_R_LA.jpg,SMITA_191,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00193_R_LA.jpeg,SMITA00193_R_LA.jpeg,SMITA_193,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00199_R_LA.jpeg,SMITA00199_R_LA.jpeg,SMITA_199,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00220_W_LA.jpeg,SMITA00220_W_LA.jpeg,SMITA_220,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00229_R_LA.jpg,SMITA00229_R_LA.jpg,SMITA_229,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00245_R_LA.jpg,SMITA00245_R_LA.jpg,SMITA_245,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00251_R_LA.jpg,SMITA00251_R_LA.jpg,SMITA_251,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00257_R_LA.jpeg,SMITA00257_R_LA.jpeg,SMITA_257,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00264_R_LA.jpeg,SMITA00264_R_LA.jpeg,SMITA_264,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00274_W_LA.jpg,SMITA00274_W_LA.jpg,SMITA_274,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00284_R_LA.jpg,SMITA00284_R_LA.jpg,SMITA_284,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00286_R_LA.jpeg,SMITA00286_R_LA.jpeg,SMITA_286,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00297_R_LA.jpeg,SMITA00297_R_LA.jpeg,SMITA_297,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00302_R_LA.jpeg,SMITA00302_R_LA.jpeg,SMITA_302,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00304_R_LA.jpeg,SMITA00304_R_LA.jpeg,SMITA_304,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00305_R_LA.jpeg,SMITA00305_R_LA.jpeg,SMITA_305,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00310_R_LA.jpg,SMITA00310_R_LA.jpg,SMITA_310,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00313_R_LA.jpg,SMITA00313_R_LA.jpg,SMITA_313,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00339_R_LA.jpeg,SMITA00339_R_LA.jpeg,SMITA_339,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00341_R_LA.jpeg,SMITA00341_R_LA.jpeg,SMITA_341,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00344_R_LA.jpeg,SMITA00344_R_LA.jpeg,SMITA_344,01. Normal,0
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00002_W_DT.jpeg,SMITA00002_W_DT.jpeg,SMITA_2,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00022_R_DT.jpg,SMITA00022_R_DT.jpg,SMITA_22,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00084_R_DT.jpg,SMITA00084_R_DT.jpg,SMITA_84,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00302_R_DT.jpeg,SMITA00302_R_DT.jpeg,SMITA_302,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00061_R_LB.jpg,SMITA00061_R_LB.jpg,SMITA_61,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00073_R_LB.jpg,SMITA00073_R_LB.jpg,SMITA_73,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00084_R_LB.jpg,SMITA00084_R_LB.jpg,SMITA_84,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00089_R_LB.jpg,SMITA00089_R_LB.jpg,SMITA_89,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00141_R_LB.jpeg,SMITA00141_R_LB.jpeg,SMITA_141,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00167_R_LB.jpeg,SMITA00167_R_LB.jpeg,SMITA_167,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00191_R_LB.jpg,SMITA00191_R_LB.jpg,SMITA_191,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00199_R_LB.jpeg,SMITA00199_R_LB.jpeg,SMITA_199,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00278_W_LB.jpg,SMITA00278_W_LB.jpg,SMITA_278,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00310_R_LB.jpg,SMITA00310_R_LB.jpg,SMITA_310,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00061_R_RB.jpg,SMITA00061_R_RB.jpg,SMITA_61,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00089_R_RB.jpg,SMITA00089_R_RB.jpg,SMITA_89,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00141_R_RB.jpeg,SMITA00141_R_RB.jpeg,SMITA_141,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00184_W_RB.jpeg,SMITA00184_W_RB.jpeg,SMITA_184,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00278_W_RB.jpg,SMITA00278_W_RB.jpg,SMITA_278,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00310_R_RB.jpg,SMITA00310_R_RB.jpg,SMITA_310,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/06. Lower lip/10 - LL.jpg,10 - LL.jpg,NUM_10,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00002_W_LL1.jpeg,SMITA00002_W_LL1.jpeg,SMITA_2,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00002_W_LL3.jpeg,SMITA00002_W_LL3.jpeg,SMITA_2,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00014_R_LL.JPG,SMITA00014_R_LL.JPG,SMITA_14,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00015_W_LL.jpeg,SMITA00015_W_LL.jpeg,SMITA_15,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00126_R_LL1.jpeg,SMITA00126_R_LL1.jpeg,SMITA_126,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00126_R_LL2.jpeg,SMITA00126_R_LL2.jpeg,SMITA_126,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00167_R_LL1.jpeg,SMITA00167_R_LL1.jpeg,SMITA_167,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00276_W_LL.jpg,SMITA00276_W_LL.jpg,SMITA_276,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00344_R_LL.jpeg,SMITA00344_R_LL.jpeg,SMITA_344,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/07. Upper arch/SMITA00015_W_UA.jpeg,SMITA00015_W_UA.jpeg,SMITA_15,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/07. Upper arch/SMITA00022_R_UA.jpg,SMITA00022_R_UA.jpg,SMITA_22,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/07. Upper arch/SMITA00061_R_UA.jpg,SMITA00061_R_UA.jpg,SMITA_61,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/07. Upper arch/SMITA00133_R_UA.jpg,SMITA00133_R_UA.jpg,SMITA_133,02. Variation from normal,1
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00014_W_LB1.jpeg,SMITA00014_W_LB1.jpeg,SMITA_14,03. OPMD,2
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00014_W_LB2.jpeg,SMITA00014_W_LB2.jpeg,SMITA_14,03. OPMD,2
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00022_R_LB.jpg,SMITA00022_R_LB.jpg,SMITA_22,03. OPMD,2
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA000252_R_LB.jpeg,SMITA000252_R_LB.jpeg,SMITA_252,03. OPMD,2
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00034_R_LB.JPG,SMITA00034_R_LB.JPG,SMITA_34,03. OPMD,2
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00176_W_LB.jpg,SMITA00176_W_LB.jpg,SMITA_176,03. OPMD,2
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00184_W_LB.jpeg,SMITA00184_W_LB.jpeg,SMITA_184,03. OPMD,2
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00251_R_LB.jpg,SMITA00251_R_LB.jpg,SMITA_251,03. OPMD,2
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00274_W_LB.jpg,SMITA00274_W_LB.jpg,SMITA_274,03. OPMD,2
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00276_W_LB.jpg,SMITA00276_W_LB.jpg,SMITA_276,03. OPMD,2
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00304_R_LB.jpeg,SMITA00304_R_LB.jpeg,SMITA_304,03. OPMD,2
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00014_W_RB.jpeg,SMITA00014_W_RB.jpeg,SMITA_14,03. OPMD,2
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00022_R_RB.jpg,SMITA00022_R_RB.jpg,SMITA_22,03. OPMD,2
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00034_R_RB1.JPG,SMITA00034_R_RB1.JPG,SMITA_34,03. OPMD,2
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00034_R_RB2.JPG,SMITA00034_R_RB2.JPG,SMITA_34,03. OPMD,2
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00034_R_RB3.JPG,SMITA00034_R_RB3.JPG,SMITA_34,03. OPMD,2
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00073_R_RB.jpg,SMITA00073_R_RB.jpg,SMITA_73,03. OPMD,2
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00084_R_RB.jpg,SMITA00084_R_RB.jpg,SMITA_84,03. OPMD,2
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00176_W_RB.jpg,SMITA00176_W_RB.jpg,SMITA_176,03. OPMD,2
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00251_R_RB.jpg,SMITA00251_R_RB.jpg,SMITA_251,03. OPMD,2
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00274_W_RB.jpg,SMITA00274_W_RB.jpg,SMITA_274,03. OPMD,2
+04. Oral Cancer/01. Unannotated/02. Ventral tongue/6766.jpg,6766.jpg,OTHER_6766,04. Oral Cancer,3
+04. Oral Cancer/01. Unannotated/04. Right buccal mucosa/Ca 4.png,Ca 4.png,CA_4,04. Oral Cancer,3
+04. Oral Cancer/01. Unannotated/08. Lower arch/Ca 4.jpg,Ca 4.jpg,CA_4,04. Oral Cancer,3
+04. Oral Cancer/01. Unannotated/08. Lower arch/Ca 6.png,Ca 6.png,CA_6,04. Oral Cancer,3
