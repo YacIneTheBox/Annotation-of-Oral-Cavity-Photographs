@@ -1,0 +1,9 @@
+model,fraction,n_train,balanced_accuracy,macro_auroc,recall_normal,recall_variation,recall_opmd,recall_cancer,preds_file
+imagenet,1pct,20,0.2999,0.6066,0.908,0.0,0.0417,0.25,results/preds_imagenet_1pct.csv
+imagenet,10pct,195,0.4003,0.8141,0.8373,0.3056,0.4583,0.0,results/preds_imagenet_10pct.csv
+imagenet,25pct,488,0.5795,0.8289,0.7901,0.3611,0.6667,0.5,results/preds_imagenet_25pct.csv
+imagenet,100pct,1952,0.5811,0.8818,0.7689,0.4722,0.5833,0.5,results/preds_imagenet_100pct.csv
+dinov2,1pct,20,0.2832,0.6509,0.7995,0.0833,0.25,0.0,results/preds_dinov2_1pct.csv
+dinov2,10pct,195,0.3734,0.81,0.7854,0.1667,0.5417,0.0,results/preds_dinov2_10pct.csv
+dinov2,25pct,488,0.4348,0.8432,0.7948,0.1944,0.75,0.0,results/preds_dinov2_25pct.csv
+dinov2,100pct,1952,0.6785,0.8808,0.7972,0.3333,0.8333,0.75,results/preds_dinov2_100pct.csv

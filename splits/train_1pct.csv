@@ -1,0 +1,21 @@
+filepath,filename,patient_id,class_name,label
+01. Normal/01. Unannotated/07. Upper arch/SMITA00008_R_UA.JPG,SMITA00008_R_UA.JPG,SMITA_8,01. Normal,0
+02. Variation from normal/01. Unannotated/07. Upper arch/SMITA00109_R_UA.jpg,SMITA00109_R_UA.jpg,SMITA_109,02. Variation from normal,1
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00012_R_RB.JPG,SMITA00012_R_RB.JPG,SMITA_12,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00334_R_LA.jpeg,SMITA00334_R_LA.jpeg,SMITA_334,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00053_R_LL.jpeg,SMITA00053_R_LL.jpeg,SMITA_53,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00081_R_DT.jpeg,SMITA00081_R_DT.jpeg,SMITA_81,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00042_R_LB.JPG,SMITA00042_R_LB.JPG,SMITA_42,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00213_R_LL.jpg,SMITA00213_R_LL.jpg,SMITA_213,01. Normal,0
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00268_W_RB.jpg,SMITA00268_W_RB.jpg,SMITA_268,03. OPMD,2
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00163_R_DT.jpg,SMITA00163_R_DT.jpg,SMITA_163,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00172_R_LA.jpg,SMITA00172_R_LA.jpg,SMITA_172,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00134_R_LA.jpg,SMITA00134_R_LA.jpg,SMITA_134,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00066_R_DT.jpg,SMITA00066_R_DT.jpg,SMITA_66,01. Normal,0
+04. Oral Cancer/01. Unannotated/02. Ventral tongue/6026.jpg,6026.jpg,OTHER_6026,04. Oral Cancer,3
+01. Normal/01. Unannotated/07. Upper arch/SMITA00189_W_UA.jpg,SMITA00189_W_UA.jpg,SMITA_189,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00017_R_DT.JPG,SMITA00017_R_DT.JPG,SMITA_17,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00224_W_LA.jpeg,SMITA00224_W_LA.jpeg,SMITA_224,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00290_R_VT.jpeg,SMITA00290_R_VT.jpeg,SMITA_290,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00067_R_DT.jpeg,SMITA00067_R_DT.jpeg,SMITA_67,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00010_R_LA.JPG,SMITA00010_R_LA.JPG,SMITA_10,01. Normal,0

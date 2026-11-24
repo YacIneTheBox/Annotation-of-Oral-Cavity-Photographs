@@ -1,0 +1,489 @@
+filepath,filename,patient_id,class_name,label
+01. Normal/01. Unannotated/08. Lower arch/SMITA00320_R__LA.jpg,SMITA00320_R__LA.jpg,SMITA_320,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00258_R_LL.jpeg,SMITA00258_R_LL.jpeg,SMITA_258,01. Normal,0
+02. Variation from normal/01. Unannotated/07. Upper arch/SMITA00058_R_UA.jpeg,SMITA00058_R_UA.jpeg,SMITA_58,02. Variation from normal,1
+01. Normal/01. Unannotated/08. Lower arch/SMITA00087_R_LA.jpg,SMITA00087_R_LA.jpg,SMITA_87,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00338_R_UL.jpeg,SMITA00338_R_UL.jpeg,SMITA_338,01. Normal,0
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00214_W_RB1.jpeg,SMITA00214_W_RB1.jpeg,SMITA_214,03. OPMD,2
+01. Normal/01. Unannotated/06. Lower lip/SMITA00146_R_LL.jpeg,SMITA00146_R_LL.jpeg,SMITA_146,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00177_W_UA.jpg,SMITA00177_W_UA.jpg,SMITA_177,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00320_R__LB.jpg,SMITA00320_R__LB.jpg,SMITA_320,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00112_R_LB.jpeg,SMITA00112_R_LB.jpeg,SMITA_112,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00066_R_DT.jpg,SMITA00066_R_DT.jpg,SMITA_66,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00260_R_LB.jpeg,SMITA00260_R_LB.jpeg,SMITA_260,01. Normal,0
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00262_R_DT.jpeg,SMITA00262_R_DT.jpeg,SMITA_262,02. Variation from normal,1
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00076_R_RB.jpeg,SMITA00076_R_RB.jpeg,SMITA_76,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00327_R_RB.jpg,SMITA00327_R_RB.jpg,SMITA_327,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00300_R_LB.jpeg,SMITA00300_R_LB.jpeg,SMITA_300,01. Normal,0
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00108_R_RB.jpg,SMITA00108_R_RB.jpg,SMITA_108,02. Variation from normal,1
+01. Normal/01. Unannotated/07. Upper arch/SMITA00162_R_UA.jpeg,SMITA00162_R_UA.jpeg,SMITA_162,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00173_R_DT.jpg,SMITA00173_R_DT.jpg,SMITA_173,01. Normal,0
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00067_R_RB.jpeg,SMITA00067_R_RB.jpeg,SMITA_67,02. Variation from normal,1
+01. Normal/01. Unannotated/05. Upper lip/SMITA00181_W_UL.jpg,SMITA00181_W_UL.jpg,SMITA_181,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00250_R_LB.jpg,SMITA00250_R_LB.jpg,SMITA_250,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00299_R_VT.jpeg,SMITA00299_R_VT.jpeg,SMITA_299,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA000254_R_VT.jpeg,SMITA000254_R_VT.jpeg,SMITA_254,01. Normal,0
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00223_W_LL2.jpeg,SMITA00223_W_LL2.jpeg,SMITA_223,02. Variation from normal,1
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00010_R_VT.JPG,SMITA00010_R_VT.JPG,SMITA_10,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00187_W_LB.jpeg,SMITA00187_W_LB.jpeg,SMITA_187,03. OPMD,2
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00285_R_LB.jpeg,SMITA00285_R_LB.jpeg,SMITA_285,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00298_R_LL.jpeg,SMITA00298_R_LL.jpeg,SMITA_298,01. Normal,0
+03. OPMD/01. Unannotated/06. Lower lip/SMITA00238_R_LL.jpg,SMITA00238_R_LL.jpg,SMITA_238,03. OPMD,2
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00006_R_VT.JPG,SMITA00006_R_VT.JPG,SMITA_6,01. Normal,0
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00314_R__LB.jpg,SMITA00314_R__LB.jpg,SMITA_314,02. Variation from normal,1
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00011_W_VT.jpeg,SMITA00011_W_VT.jpeg,SMITA_11,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA000243_R_VT.jpeg,SMITA000243_R_VT.jpeg,SMITA_243,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00087_R_UA.jpg,SMITA00087_R_UA.jpg,SMITA_87,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00008_R_UA.JPG,SMITA00008_R_UA.JPG,SMITA_8,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00042_R_LB.JPG,SMITA00042_R_LB.JPG,SMITA_42,01. Normal,0
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00075_R_RB.jpeg,SMITA00075_R_RB.jpeg,SMITA_75,03. OPMD,2
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00106_R_LB.jpeg,SMITA00106_R_LB.jpeg,SMITA_106,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00072_R_VT.jpeg,SMITA00072_R_VT.jpeg,SMITA_72,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00296_R_LA.jpeg,SMITA00296_R_LA.jpeg,SMITA_296,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00299_R_LB.jpeg,SMITA00299_R_LB.jpeg,SMITA_299,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00190_R_LB.jpeg,SMITA00190_R_LB.jpeg,SMITA_190,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00035_R_LB.JPG,SMITA00035_R_LB.JPG,SMITA_35,03. OPMD,2
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00197_R_RB.jpg,SMITA00197_R_RB.jpg,SMITA_197,02. Variation from normal,1
+01. Normal/01. Unannotated/05. Upper lip/SMITA00161_R_UL.jpg,SMITA00161_R_UL.jpg,SMITA_161,01. Normal,0
+04. Oral Cancer/01. Unannotated/02. Ventral tongue/6765.jpg,6765.jpg,OTHER_6765,04. Oral Cancer,3
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00162_R_VT.jpeg,SMITA00162_R_VT.jpeg,SMITA_162,01. Normal,0
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00213_R_LB.jpg,SMITA00213_R_LB.jpg,SMITA_213,02. Variation from normal,1
+01. Normal/01. Unannotated/08. Lower arch/SMITA000243_R_LA.jpeg,SMITA000243_R_LA.jpeg,SMITA_243,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00134_R_UL.jpg,SMITA00134_R_UL.jpg,SMITA_134,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA000237_R_LL.jpeg,SMITA000237_R_LL.jpeg,SMITA_237,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00016_R_UA.JPG,SMITA00016_R_UA.JPG,SMITA_16,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00265_R_RB.jpeg,SMITA00265_R_RB.jpeg,SMITA_265,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA000241_R_UA.jpeg,SMITA000241_R_UA.jpeg,SMITA_241,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00007_W_LL.jpg,SMITA00007_W_LL.jpg,SMITA_7,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00270_W_UL.jpg,SMITA00270_W_UL.jpg,SMITA_270,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00216_W_LL.jpeg,SMITA00216_W_LL.jpeg,SMITA_216,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00281_W-VT.jpeg,SMITA00281_W-VT.jpeg,SMITA_281,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00092_R_UL.jpg,SMITA00092_R_UL.jpg,SMITA_92,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00325_R_DT.jpg,SMITA00325_R_DT.jpg,SMITA_325,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00138_R_UA.jpg,SMITA00138_R_UA.jpg,SMITA_138,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00132_R_DT.jpg,SMITA00132_R_DT.jpg,SMITA_132,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00053_R_UA.jpeg,SMITA00053_R_UA.jpeg,SMITA_53,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00271_W_VT.jpg,SMITA00271_W_VT.jpg,SMITA_271,01. Normal,0
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00214_W_RB2.jpeg,SMITA00214_W_RB2.jpeg,SMITA_214,03. OPMD,2
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00285_R_DT.jpeg,SMITA00285_R_DT.jpeg,SMITA_285,01. Normal,0
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00083_R_DT.jpg,SMITA00083_R_DT.jpg,SMITA_83,02. Variation from normal,1
+01. Normal/01. Unannotated/06. Lower lip/SMITA00117_R_LL.jpeg,SMITA00117_R_LL.jpeg,SMITA_117,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00194_R_UA.jpeg,SMITA00194_R_UA.jpeg,SMITA_194,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00064_R_UA.jpg,SMITA00064_R_UA.jpg,SMITA_64,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00334_R_RB.jpeg,SMITA00334_R_RB.jpeg,SMITA_334,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00201_R_VT.jpeg,SMITA00201_R_VT.jpeg,SMITA_201,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00020_R_DT.JPG,SMITA00020_R_DT.JPG,SMITA_20,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00057_R_LA.jpeg,SMITA00057_R_LA.jpeg,SMITA_57,01. Normal,0
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00213_R_RB.jpg,SMITA00213_R_RB.jpg,SMITA_213,02. Variation from normal,1
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00044_R_RB.JPG,SMITA00044_R_RB.JPG,SMITA_44,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00059_R_LB.jpeg,SMITA00059_R_LB.jpeg,SMITA_59,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00311_R__LB.jpg,SMITA00311_R__LB.jpg,SMITA_311,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00210_R_UL.jpeg,SMITA00210_R_UL.jpeg,SMITA_210,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00277_W_UL.jpeg,SMITA00277_W_UL.jpeg,SMITA_277,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00265_R_LA.jpeg,SMITA00265_R_LA.jpeg,SMITA_265,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00005_W_VT.jpg,SMITA00005_W_VT.jpg,SMITA_5,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00292_R_UA.jpeg,SMITA00292_R_UA.jpeg,SMITA_292,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/9 - UL.jpg,9 - UL.jpg,NUM_9,01. Normal,0
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA000221_R_DT.jpeg,SMITA000221_R_DT.jpeg,SMITA_221,02. Variation from normal,1
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00012_R_RB.JPG,SMITA00012_R_RB.JPG,SMITA_12,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00027_R_LB.JPG,SMITA00027_R_LB.JPG,SMITA_27,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00287_R_LB.jpg,SMITA00287_R_LB.jpg,SMITA_287,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00142_R_UL.jpg,SMITA00142_R_UL.jpg,SMITA_142,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA000241_R_LB.jpeg,SMITA000241_R_LB.jpeg,SMITA_241,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00179_W_DT.jpg,SMITA00179_W_DT.jpg,SMITA_179,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00190_R_UL.jpeg,SMITA00190_R_UL.jpeg,SMITA_190,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00048_R_UL.jpeg,SMITA00048_R_UL.jpeg,SMITA_48,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00345_R_RB.jpeg,SMITA00345_R_RB.jpeg,SMITA_345,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00157_R_UA.jpeg,SMITA00157_R_UA.jpeg,SMITA_157,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00202_R_LA.jpg,SMITA00202_R_LA.jpg,SMITA_202,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00308_R_VT.jpg,SMITA00308_R_VT.jpg,SMITA_308,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00253_R_LA.jpg,SMITA00253_R_LA.jpg,SMITA_253,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00210_R_LA.jpeg,SMITA00210_R_LA.jpeg,SMITA_210,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00163_R_LB.jpg,SMITA00163_R_LB.jpg,SMITA_163,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00153_R_LB.jpeg,SMITA00153_R_LB.jpeg,SMITA_153,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00214_W_UA.jpeg,SMITA00214_W_UA.jpeg,SMITA_214,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00275_W_DT.jpg,SMITA00275_W_DT.jpg,SMITA_275,01. Normal,0
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00262_R_RB2.jpeg,SMITA00262_R_RB2.jpeg,SMITA_262,03. OPMD,2
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00335_R_VT.jpeg,SMITA00335_R_VT.jpeg,SMITA_335,01. Normal,0
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00211_R_RB.jpg,SMITA00211_R_RB.jpg,SMITA_211,02. Variation from normal,1
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00192_R_LB.jpg,SMITA00192_R_LB.jpg,SMITA_192,02. Variation from normal,1
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00315_R_DT.jpg,SMITA00315_R_DT.jpg,SMITA_315,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00303_R_LB.jpeg,SMITA00303_R_LB.jpeg,SMITA_303,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00293_R_RB.jpeg,SMITA00293_R_RB.jpeg,SMITA_293,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00301_R_RB.jpeg,SMITA00301_R_RB.jpeg,SMITA_301,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00017_R_LB.JPG,SMITA00017_R_LB.JPG,SMITA_17,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00166_R_UA.jpg,SMITA00166_R_UA.jpg,SMITA_166,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00020_R_LB.JPG,SMITA00020_R_LB.JPG,SMITA_20,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00317_R_LB.jpg,SMITA00317_R_LB.jpg,SMITA_317,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00159_R_LB.jpeg,SMITA00159_R_LB.jpeg,SMITA_159,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00065_R_LB.jpeg,SMITA00065_R_LB.jpeg,SMITA_65,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00008_R_VT.JPG,SMITA00008_R_VT.JPG,SMITA_8,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00035_R_LA.JPG,SMITA00035_R_LA.JPG,SMITA_35,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA000254_R_LB.jpeg,SMITA000254_R_LB.jpeg,SMITA_254,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00250_R_UA.jpg,SMITA00250_R_UA.jpg,SMITA_250,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00280_W_LB.jpeg,SMITA00280_W_LB.jpeg,SMITA_280,03. OPMD,2
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00168_R_RB.jpg,SMITA00168_R_RB.jpg,SMITA_168,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00330_R_LA.jpg,SMITA00330_R_LA.jpg,SMITA_330,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00131_R_UL.jpg,SMITA00131_R_UL.jpg,SMITA_131,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00323_R_LA.jpg,SMITA00323_R_LA.jpg,SMITA_323,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00138_R_LA.jpg,SMITA00138_R_LA.jpg,SMITA_138,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00211_R_LA.jpg,SMITA00211_R_LA.jpg,SMITA_211,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00246_R_VT.jpg,SMITA00246_R_VT.jpg,SMITA_246,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00040_R_UL.JPG,SMITA00040_R_UL.JPG,SMITA_40,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00331_R_LL.jpg,SMITA00331_R_LL.jpg,SMITA_331,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00294_R_VT.jpeg,SMITA00294_R_VT.jpeg,SMITA_294,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00223_W_RB.jpeg,SMITA00223_W_RB.jpeg,SMITA_223,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00331_R_UA.jpg,SMITA00331_R_UA.jpg,SMITA_331,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00295_R_LB.jpeg,SMITA00295_R_LB.jpeg,SMITA_295,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00322_R_LA.jpg,SMITA00322_R_LA.jpg,SMITA_322,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00007_W_UA.jpg,SMITA00007_W_UA.jpg,SMITA_7,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00132_R_LB.jpg,SMITA00132_R_LB.jpg,SMITA_132,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00322_R_RB.jpg,SMITA00322_R_RB.jpg,SMITA_322,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00016_W_LB.jpg,SMITA00016_W_LB.jpg,SMITA_16,03. OPMD,2
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00081_R_DT.jpeg,SMITA00081_R_DT.jpeg,SMITA_81,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00266_R_LB.jpeg,SMITA00266_R_LB.jpeg,SMITA_266,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA000243_R_UL.jpeg,SMITA000243_R_UL.jpeg,SMITA_243,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00163_R_DT.jpg,SMITA00163_R_DT.jpg,SMITA_163,01. Normal,0
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00213_R_DT.jpg,SMITA00213_R_DT.jpg,SMITA_213,02. Variation from normal,1
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA000232_R_RB.jpeg,SMITA000232_R_RB.jpeg,SMITA_232,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00213_R_LL.jpg,SMITA00213_R_LL.jpg,SMITA_213,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00206_R_LL.jpg,SMITA00206_R_LL.jpg,SMITA_206,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00250_R_DT.jpg,SMITA00250_R_DT.jpg,SMITA_250,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00041_R_UA.JPG,SMITA00041_R_UA.JPG,SMITA_41,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00248_R_LB.jpg,SMITA00248_R_LB.jpg,SMITA_248,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00092_R_UA.jpg,SMITA00092_R_UA.jpg,SMITA_92,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00012_W_LB1.jpeg,SMITA00012_W_LB1.jpeg,SMITA_12,03. OPMD,2
+01. Normal/01. Unannotated/06. Lower lip/SMITA00323_R_LL.jpg,SMITA00323_R_LL.jpg,SMITA_323,01. Normal,0
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00212_R_LL.jpeg,SMITA00212_R_LL.jpeg,SMITA_212,02. Variation from normal,1
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA000256_R_LB.jpeg,SMITA000256_R_LB.jpeg,SMITA_256,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00107_R_LL.jpeg,SMITA00107_R_LL.jpeg,SMITA_107,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00224_W_LA.jpeg,SMITA00224_W_LA.jpeg,SMITA_224,01. Normal,0
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00268_W_RB.jpg,SMITA00268_W_RB.jpg,SMITA_268,03. OPMD,2
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00021_W_DT.jpeg,SMITA00021_W_DT.jpeg,SMITA_21,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00207_R_LB.jpg,SMITA00207_R_LB.jpg,SMITA_207,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00151_R_LL.jpg,SMITA00151_R_LL.jpg,SMITA_151,01. Normal,0
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00045_R_LB.JPG,SMITA00045_R_LB.JPG,SMITA_45,02. Variation from normal,1
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00333_R_RB.jpeg,SMITA00333_R_RB.jpeg,SMITA_333,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00189_W_DT.jpg,SMITA00189_W_DT.jpg,SMITA_189,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00072_R_DT.jpeg,SMITA00072_R_DT.jpeg,SMITA_72,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00158_R_RB.jpeg,SMITA00158_R_RB.jpeg,SMITA_158,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00067_R_UA.jpeg,SMITA00067_R_UA.jpeg,SMITA_67,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00082_R_VT.jpg,SMITA00082_R_VT.jpg,SMITA_82,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA000247_R_UL.jpeg,SMITA000247_R_UL.jpeg,SMITA_247,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00259_R_LA.jpeg,SMITA00259_R_LA.jpeg,SMITA_259,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00104_R_LB.jpeg,SMITA00104_R_LB.jpeg,SMITA_104,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00057_R_LL.jpeg,SMITA00057_R_LL.jpeg,SMITA_57,01. Normal,0
+04. Oral Cancer/01. Unannotated/02. Ventral tongue/Ca 2.png,Ca 2.png,CA_2,04. Oral Cancer,3
+01. Normal/01. Unannotated/08. Lower arch/5 - LA.jpg,5 - LA.jpg,NUM_5,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00262_R_UL.jpeg,SMITA00262_R_UL.jpeg,SMITA_262,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00319_R_UL.jpg,SMITA00319_R_UL.jpg,SMITA_319,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00130_R_LB.jpg,SMITA00130_R_LB.jpg,SMITA_130,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00012_R_VT.JPG,SMITA00012_R_VT.JPG,SMITA_12,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00300_R_UL.jpeg,SMITA00300_R_UL.jpeg,SMITA_300,01. Normal,0
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00113_R_RB.jpeg,SMITA00113_R_RB.jpeg,SMITA_113,02. Variation from normal,1
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA000239_R_RB.jpeg,SMITA000239_R_RB.jpeg,SMITA_239,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00053_R_LB.jpeg,SMITA00053_R_LB.jpeg,SMITA_53,01. Normal,0
+02. Variation from normal/01. Unannotated/02. Ventral tongue/SMITA00023_R_VT3.JPG,SMITA00023_R_VT3.JPG,SMITA_23,02. Variation from normal,1
+01. Normal/01. Unannotated/07. Upper arch/SMITA00192_R_UA.jpg,SMITA00192_R_UA.jpg,SMITA_192,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00321_R_LL.jpg,SMITA00321_R_LL.jpg,SMITA_321,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00058_R_LL.jpeg,SMITA00058_R_LL.jpeg,SMITA_58,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00221_W_RB.jpeg,SMITA00221_W_RB.jpeg,SMITA_221,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00285_R_VT.jpeg,SMITA00285_R_VT.jpeg,SMITA_285,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00020_W_DT.jpg,SMITA00020_W_DT.jpg,SMITA_20,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00054_R_LA.jpeg,SMITA00054_R_LA.jpeg,SMITA_54,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00270_W_VT.jpg,SMITA00270_W_VT.jpg,SMITA_270,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00080_R_RB.jpg,SMITA00080_R_RB.jpg,SMITA_80,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00222_W_LB.jpeg,SMITA00222_W_LB.jpeg,SMITA_222,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00294_R_LL.jpeg,SMITA00294_R_LL.jpeg,SMITA_294,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00316_R_LB.jpg,SMITA00316_R_LB.jpg,SMITA_316,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00337_R_RB.jpeg,SMITA00337_R_RB.jpeg,SMITA_337,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00062_R_RB2.jpeg,SMITA00062_R_RB2.jpeg,SMITA_62,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00013_R_UA.JPG,SMITA00013_R_UA.JPG,SMITA_13,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00262_R_LB.jpeg,SMITA00262_R_LB.jpeg,SMITA_262,03. OPMD,2
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00035_R_RB.JPG,SMITA00035_R_RB.JPG,SMITA_35,03. OPMD,2
+01. Normal/01. Unannotated/06. Lower lip/SMITA00263_R_LL.jpeg,SMITA00263_R_LL.jpeg,SMITA_263,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00205_R_LINGUAL.jpeg,SMITA00205_R_LINGUAL.jpeg,SMITA_205,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00157_R_LA.jpeg,SMITA00157_R_LA.jpeg,SMITA_157,01. Normal,0
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00328_R_LB.jpg,SMITA00328_R_LB.jpg,SMITA_328,02. Variation from normal,1
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00325_R_VT.jpg,SMITA00325_R_VT.jpg,SMITA_325,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00058_R_LA.jpeg,SMITA00058_R_LA.jpeg,SMITA_58,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00255_R_LA.jpg,SMITA00255_R_LA.jpg,SMITA_255,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00223_W_LB.jpeg,SMITA00223_W_LB.jpeg,SMITA_223,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00172_R_DT.jpg,SMITA00172_R_DT.jpg,SMITA_172,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00174_R_UL.jpg,SMITA00174_R_UL.jpg,SMITA_174,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00212_R_DT.jpeg,SMITA00212_R_DT.jpeg,SMITA_212,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00324_R_UL.jpg,SMITA00324_R_UL.jpg,SMITA_324,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00047_R_RB.JPG,SMITA00047_R_RB.JPG,SMITA_47,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00216_W_VT.jpeg,SMITA00216_W_VT.jpeg,SMITA_216,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00266_R_UA.jpeg,SMITA00266_R_UA.jpeg,SMITA_266,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00065_R_LL.jpeg,SMITA00065_R_LL.jpeg,SMITA_65,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00041_R_LA.JPG,SMITA00041_R_LA.JPG,SMITA_41,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00045_R_VT.JPG,SMITA00045_R_VT.JPG,SMITA_45,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00010_R_LA.JPG,SMITA00010_R_LA.JPG,SMITA_10,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00240_R_DT.jpg,SMITA00240_R_DT.jpg,SMITA_240,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00018_R_LA.JPG,SMITA00018_R_LA.JPG,SMITA_18,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA000249_R_RB.jpeg,SMITA000249_R_RB.jpeg,SMITA_249,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00270_W_LL.jpg,SMITA00270_W_LL.jpg,SMITA_270,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00130_R_VT.jpg,SMITA00130_R_VT.jpg,SMITA_130,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00152_R_DT.jpeg,SMITA00152_R_DT.jpeg,SMITA_152,01. Normal,0
+02. Variation from normal/01. Unannotated/07. Upper arch/SMITA00109_R_UA.jpg,SMITA00109_R_UA.jpg,SMITA_109,02. Variation from normal,1
+01. Normal/01. Unannotated/08. Lower arch/SMITA00266_R_LA.jpeg,SMITA00266_R_LA.jpeg,SMITA_266,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00263_R_DT.jpeg,SMITA00263_R_DT.jpeg,SMITA_263,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00290_R_VT.jpeg,SMITA00290_R_VT.jpeg,SMITA_290,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00075_R_LB.jpeg,SMITA00075_R_LB.jpeg,SMITA_75,03. OPMD,2
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00170_R_VT.jpg,SMITA00170_R_VT.jpg,SMITA_170,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00069_R_UA.jpeg,SMITA00069_R_UA.jpeg,SMITA_69,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00131_R_DT.jpg,SMITA00131_R_DT.jpg,SMITA_131,01. Normal,0
+03. OPMD/01. Unannotated/06. Lower lip/SMITA00303_R_LL2.jpeg,SMITA00303_R_LL2.jpeg,SMITA_303,03. OPMD,2
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00158_R_LB.jpeg,SMITA00158_R_LB.jpeg,SMITA_158,01. Normal,0
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00011_W_DT1.jpeg,SMITA00011_W_DT1.jpeg,SMITA_11,02. Variation from normal,1
+01. Normal/01. Unannotated/07. Upper arch/SMITA00321_R_UA.jpg,SMITA00321_R_UA.jpg,SMITA_321,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA000221_R_VT.jpeg,SMITA000221_R_VT.jpeg,SMITA_221,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00258_R_LB.jpeg,SMITA00258_R_LB.jpeg,SMITA_258,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00072_R_LB.jpeg,SMITA00072_R_LB.jpeg,SMITA_72,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00289_R_VT.jpg,SMITA00289_R_VT.jpg,SMITA_289,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00309_R_RB.jpg,SMITA00309_R_RB.jpg,SMITA_309,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00317_R_LL.jpg,SMITA00317_R_LL.jpg,SMITA_317,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00142_R_LA.jpg,SMITA00142_R_LA.jpg,SMITA_142,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00108_R_UA.jpg,SMITA00108_R_UA.jpg,SMITA_108,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00271_W_LL.jpg,SMITA00271_W_LL.jpg,SMITA_271,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00041_R_RB.JPG,SMITA00041_R_RB.JPG,SMITA_41,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA000239_R_UA.jpeg,SMITA000239_R_UA.jpeg,SMITA_239,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00134_R_LA.jpg,SMITA00134_R_LA.jpg,SMITA_134,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00070_R_LA.jpeg,SMITA00070_R_LA.jpeg,SMITA_70,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00346_R_LL.jpeg,SMITA00346_R_LL.jpeg,SMITA_346,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00317_R_DT.jpg,SMITA00317_R_DT.jpg,SMITA_317,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00036_R_RB.JPG,SMITA00036_R_RB.JPG,SMITA_36,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00125_R_RB.jpg,SMITA00125_R_RB.jpg,SMITA_125,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00125_R_UA.jpg,SMITA00125_R_UA.jpg,SMITA_125,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00147_R_LB.jpg,SMITA00147_R_LB.jpg,SMITA_147,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00192_R_LA.jpg,SMITA00192_R_LA.jpg,SMITA_192,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00194_R_AOM-L.jpeg,SMITA00194_R_AOM-L.jpeg,SMITA_194,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00010_W_DT.jpg,SMITA00010_W_DT.jpg,SMITA_10,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00042_R_UL.JPG,SMITA00042_R_UL.JPG,SMITA_42,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00294_R_LA.jpeg,SMITA00294_R_LA.jpeg,SMITA_294,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00028_R_DT.JPG,SMITA00028_R_DT.JPG,SMITA_28,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00162_R_LA.jpeg,SMITA00162_R_LA.jpeg,SMITA_162,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00075_R_UA.jpeg,SMITA00075_R_UA.jpeg,SMITA_75,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00168_R_UA.jpg,SMITA00168_R_UA.jpg,SMITA_168,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00298_R_VT.jpeg,SMITA00298_R_VT.jpeg,SMITA_298,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00295_R_UA.jpeg,SMITA00295_R_UA.jpeg,SMITA_295,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00225_W_UL.jpeg,SMITA00225_W_UL.jpeg,SMITA_225,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00162_R_UL.jpeg,SMITA00162_R_UL.jpeg,SMITA_162,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00215_W_LB.jpeg,SMITA00215_W_LB.jpeg,SMITA_215,03. OPMD,2
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00040_R_RB.JPG,SMITA00040_R_RB.JPG,SMITA_40,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00018_R_UL.JPG,SMITA00018_R_UL.JPG,SMITA_18,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00299_R_DT.jpeg,SMITA00299_R_DT.jpeg,SMITA_299,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00195_R_UL.jpeg,SMITA00195_R_UL.jpeg,SMITA_195,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00179_W_VT.jpg,SMITA00179_W_VT.jpg,SMITA_179,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00202_R_DT.jpg,SMITA00202_R_DT.jpg,SMITA_202,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00053_R_DT.jpeg,SMITA00053_R_DT.jpeg,SMITA_53,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/9 - VT.jpg,9 - VT.jpg,NUM_9,01. Normal,0
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00031_R_DT.JPG,SMITA00031_R_DT.JPG,SMITA_31,02. Variation from normal,1
+01. Normal/01. Unannotated/08. Lower arch/SMITA000233_R_LA.jpeg,SMITA000233_R_LA.jpeg,SMITA_233,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00333_R_LA.jpeg,SMITA00333_R_LA.jpeg,SMITA_333,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00028_R_VT.JPG,SMITA00028_R_VT.JPG,SMITA_28,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00334_R_DT.jpeg,SMITA00334_R_DT.jpeg,SMITA_334,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00169_R_LB.jpeg,SMITA00169_R_LB.jpeg,SMITA_169,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00326_R_UA.jpg,SMITA00326_R_UA.jpg,SMITA_326,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00255_R_UL.jpg,SMITA00255_R_UL.jpg,SMITA_255,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00021_W_UA.jpeg,SMITA00021_W_UA.jpeg,SMITA_21,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA000249_R_LB.jpeg,SMITA000249_R_LB.jpeg,SMITA_249,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA000221_R_LB.jpeg,SMITA000221_R_LB.jpeg,SMITA_221,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00206_R_LB.jpg,SMITA00206_R_LB.jpg,SMITA_206,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00261_R_UL.jpeg,SMITA00261_R_UL.jpeg,SMITA_261,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00006_W_LB.jpg,SMITA00006_W_LB.jpg,SMITA_6,03. OPMD,2
+01. Normal/01. Unannotated/05. Upper lip/SMITA00231_R_UL.jpg,SMITA00231_R_UL.jpg,SMITA_231,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00261_R_LL.jpeg,SMITA00261_R_LL.jpeg,SMITA_261,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00322_R_VT.jpg,SMITA00322_R_VT.jpg,SMITA_322,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00316_R_UL.jpg,SMITA00316_R_UL.jpg,SMITA_316,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00260_R_DT.jpeg,SMITA00260_R_DT.jpeg,SMITA_260,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00110_R_UA.jpeg,SMITA00110_R_UA.jpeg,SMITA_110,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00318_R_UA.jpg,SMITA00318_R_UA.jpg,SMITA_318,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00159_R_UL.jpeg,SMITA00159_R_UL.jpeg,SMITA_159,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00028_R_UA.JPG,SMITA00028_R_UA.JPG,SMITA_28,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA000239_R_VT.jpeg,SMITA000239_R_VT.jpeg,SMITA_239,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00263_R_VT.jpeg,SMITA00263_R_VT.jpeg,SMITA_263,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00168_R_LA.jpg,SMITA00168_R_LA.jpg,SMITA_168,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00320_R__LL.jpg,SMITA00320_R__LL.jpg,SMITA_320,01. Normal,0
+03. OPMD/01. Unannotated/06. Lower lip/SMITA00181_W_LL.jpg,SMITA00181_W_LL.jpg,SMITA_181,03. OPMD,2
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00238_R_VT.jpg,SMITA00238_R_VT.jpg,SMITA_238,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00298_R_DT.jpeg,SMITA00298_R_DT.jpeg,SMITA_298,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00228_R_LB.jpg,SMITA00228_R_LB.jpg,SMITA_228,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00064_R_VT.jpg,SMITA00064_R_VT.jpg,SMITA_64,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00290_R_DT.jpeg,SMITA00290_R_DT.jpeg,SMITA_290,01. Normal,0
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00279_W_DT.jpeg,SMITA00279_W_DT.jpeg,SMITA_279,02. Variation from normal,1
+01. Normal/01. Unannotated/06. Lower lip/SMITA00314_R_LL.jpg,SMITA00314_R_LL.jpg,SMITA_314,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA000232_R_VT.jpeg,SMITA000232_R_VT.jpeg,SMITA_232,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00221_W_LA.jpeg,SMITA00221_W_LA.jpeg,SMITA_221,01. Normal,0
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00045_R_RB.JPG,SMITA00045_R_RB.JPG,SMITA_45,02. Variation from normal,1
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00192_R_VT.jpg,SMITA00192_R_VT.jpg,SMITA_192,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00203_R_UA.jpeg,SMITA00203_R_UA.jpeg,SMITA_203,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00238_R_DT.jpg,SMITA00238_R_DT.jpg,SMITA_238,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA000232_R_UL.jpeg,SMITA000232_R_UL.jpeg,SMITA_232,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00041_R_DT.JPG,SMITA00041_R_DT.JPG,SMITA_41,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00027-1_R_VT.JPG,SMITA00027-1_R_VT.JPG,SMITA_27,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00017_R_DT.JPG,SMITA00017_R_DT.JPG,SMITA_17,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00322_R_UA.jpg,SMITA00322_R_UA.jpg,SMITA_322,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00306_R_LB.jpg,SMITA00306_R_LB.jpg,SMITA_306,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00204_R_RB.jpg,SMITA00204_R_RB.jpg,SMITA_204,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00262_R_LL.jpeg,SMITA00262_R_LL.jpeg,SMITA_262,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00295_R_RB.jpeg,SMITA00295_R_RB.jpeg,SMITA_295,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00104_R_LL.jpeg,SMITA00104_R_LL.jpeg,SMITA_104,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00006_R_UL.JPG,SMITA00006_R_UL.JPG,SMITA_6,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00074_R_LB.jpeg,SMITA00074_R_LB.jpeg,SMITA_74,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00008_R_LA.JPG,SMITA00008_R_LA.JPG,SMITA_8,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00337_R_VT.jpeg,SMITA00337_R_VT.jpeg,SMITA_337,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00090_R_VT.jpg,SMITA00090_R_VT.jpg,SMITA_90,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00170_R_LA.jpg,SMITA00170_R_LA.jpg,SMITA_170,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00267_R_VT.jpeg,SMITA00267_R_VT.jpeg,SMITA_267,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00154_R_VT.jpg,SMITA00154_R_VT.jpg,SMITA_154,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00182_W_VT.jpg,SMITA00182_W_VT.jpg,SMITA_182,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00080_R_LB.jpg,SMITA00080_R_LB.jpg,SMITA_80,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00210_R_UA.jpeg,SMITA00210_R_UA.jpeg,SMITA_210,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00242_R_RB.jpg,SMITA00242_R_RB.jpg,SMITA_242,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00171_R_LA.jpeg,SMITA00171_R_LA.jpeg,SMITA_171,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00189_W_UA.jpg,SMITA00189_W_UA.jpg,SMITA_189,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00248_R_UA.jpg,SMITA00248_R_UA.jpg,SMITA_248,01. Normal,0
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00275_W_LB.jpg,SMITA00275_W_LB.jpg,SMITA_275,02. Variation from normal,1
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00246_R_RB.jpg,SMITA00246_R_RB.jpg,SMITA_246,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00045_R_UL.JPG,SMITA00045_R_UL.JPG,SMITA_45,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/8 -UA.jpg,8 -UA.jpg,NUM_8,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00240_R_UA.jpg,SMITA00240_R_UA.jpg,SMITA_240,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00260_R_RB.jpeg,SMITA00260_R_RB.jpeg,SMITA_260,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA000249_R_UL.jpeg,SMITA000249_R_UL.jpeg,SMITA_249,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00125_R_LA.jpg,SMITA00125_R_LA.jpg,SMITA_125,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00168_R_LL.jpg,SMITA00168_R_LL.jpg,SMITA_168,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00246_R_LB.jpg,SMITA00246_R_LB.jpg,SMITA_246,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00171_R_VT.jpeg,SMITA00171_R_VT.jpeg,SMITA_171,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00062_R_LA.jpeg,SMITA00062_R_LA.jpeg,SMITA_62,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00158_R_LL.jpeg,SMITA00158_R_LL.jpeg,SMITA_158,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00294_R_UA.jpeg,SMITA00294_R_UA.jpeg,SMITA_294,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00169_R_VT.jpeg,SMITA00169_R_VT.jpeg,SMITA_169,01. Normal,0
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00110_R_LL.jpeg,SMITA00110_R_LL.jpeg,SMITA_110,02. Variation from normal,1
+01. Normal/01. Unannotated/06. Lower lip/SMITA00047_R_LL.JPG,SMITA00047_R_LL.JPG,SMITA_47,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA000221_R_LL.jpeg,SMITA000221_R_LL.jpeg,SMITA_221,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00106_R_RB.jpeg,SMITA00106_R_RB.jpeg,SMITA_106,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00260_R_VT.jpeg,SMITA00260_R_VT.jpeg,SMITA_260,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00012_R_LB.JPG,SMITA00012_R_LB.JPG,SMITA_12,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00136_R_LA.jpg,SMITA00136_R_LA.jpg,SMITA_136,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00159_R_RB.jpeg,SMITA00159_R_RB.jpeg,SMITA_159,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00269_W_VT.jpg,SMITA00269_W_VT.jpg,SMITA_269,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA000237_R_UL.jpeg,SMITA000237_R_UL.jpeg,SMITA_237,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00144_R_UL.jpg,SMITA00144_R_UL.jpg,SMITA_144,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00338_R_RB.jpeg,SMITA00338_R_RB.jpeg,SMITA_338,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00181_W_LB.jpg,SMITA00181_W_LB.jpg,SMITA_181,03. OPMD,2
+01. Normal/01. Unannotated/06. Lower lip/SMITA00053_R_LL.jpeg,SMITA00053_R_LL.jpeg,SMITA_53,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00076_R_LA.jpeg,SMITA00076_R_LA.jpeg,SMITA_76,01. Normal,0
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00223_W_LL1.jpeg,SMITA00223_W_LL1.jpeg,SMITA_223,02. Variation from normal,1
+01. Normal/01. Unannotated/06. Lower lip/SMITA00225_W_LL.jpeg,SMITA00225_W_LL.jpeg,SMITA_225,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00285_R_LL.jpeg,SMITA00285_R_LL.jpeg,SMITA_285,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00067_R_DT.jpeg,SMITA00067_R_DT.jpeg,SMITA_67,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00185_W_UA.jpeg,SMITA00185_W_UA.jpeg,SMITA_185,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00039_R_DT.JPG,SMITA00039_R_DT.JPG,SMITA_39,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00166_R_LA.jpg,SMITA00166_R_LA.jpg,SMITA_166,01. Normal,0
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00149_R_LB.jpeg,SMITA00149_R_LB.jpeg,SMITA_149,02. Variation from normal,1
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00307_R_VT.jpg,SMITA00307_R_VT.jpg,SMITA_307,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00064_R_DT.jpg,SMITA00064_R_DT.jpg,SMITA_64,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00332_R_LA.jpg,SMITA00332_R_LA.jpg,SMITA_332,01. Normal,0
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00149_R_DT.jpeg,SMITA00149_R_DT.jpeg,SMITA_149,02. Variation from normal,1
+01. Normal/01. Unannotated/08. Lower arch/SMITA00216_W_LA.jpeg,SMITA00216_W_LA.jpeg,SMITA_216,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00211_R_LL.jpg,SMITA00211_R_LL.jpg,SMITA_211,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00327_R_DT.jpg,SMITA00327_R_DT.jpg,SMITA_327,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00202_R_RB.jpg,SMITA00202_R_RB.jpg,SMITA_202,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00110_R_VT.jpeg,SMITA00110_R_VT.jpeg,SMITA_110,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00011_W_RB.jpeg,SMITA00011_W_RB.jpeg,SMITA_11,01. Normal,0
+02. Variation from normal/01. Unannotated/06. Lower lip/SMITA00012_W_LL.jpeg,SMITA00012_W_LL.jpeg,SMITA_12,02. Variation from normal,1
+01. Normal/01. Unannotated/06. Lower lip/SMITA00308_R_LL.jpg,SMITA00308_R_LL.jpg,SMITA_308,01. Normal,0
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00215_W_RB.jpeg,SMITA00215_W_RB.jpeg,SMITA_215,03. OPMD,2
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00212_R_LB2.jpeg,SMITA00212_R_LB2.jpeg,SMITA_212,02. Variation from normal,1
+01. Normal/01. Unannotated/08. Lower arch/SMITA00131_R_LA.jpg,SMITA00131_R_LA.jpg,SMITA_131,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00320_R__UA.jpg,SMITA00320_R__UA.jpg,SMITA_320,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00159_R_VT.jpeg,SMITA00159_R_VT.jpeg,SMITA_159,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00157_R_LL.jpeg,SMITA00157_R_LL.jpeg,SMITA_157,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00267_R_UL.jpeg,SMITA00267_R_UL.jpeg,SMITA_267,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00147_R_UA.jpg,SMITA00147_R_UA.jpg,SMITA_147,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00171_R_UA.jpeg,SMITA00171_R_UA.jpeg,SMITA_171,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00003_W_UA.jpeg,SMITA00003_W_UA.jpeg,SMITA_3,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00172_R_VT.jpg,SMITA00172_R_VT.jpg,SMITA_172,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00027_R_DT.JPG,SMITA00027_R_DT.JPG,SMITA_27,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00054_R_UA.jpeg,SMITA00054_R_UA.jpeg,SMITA_54,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00154_R_UA.jpg,SMITA00154_R_UA.jpg,SMITA_154,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00020_R_VT.JPG,SMITA00020_R_VT.JPG,SMITA_20,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00149_R_UA.jpeg,SMITA00149_R_UA.jpeg,SMITA_149,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00334_R_LA.jpeg,SMITA00334_R_LA.jpeg,SMITA_334,01. Normal,0
+02. Variation from normal/01. Unannotated/03. Left buccal mucosa/SMITA00315_R_LB.jpg,SMITA00315_R_LB.jpg,SMITA_315,02. Variation from normal,1
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00021_W_LB.jpeg,SMITA00021_W_LB.jpeg,SMITA_21,03. OPMD,2
+01. Normal/01. Unannotated/08. Lower arch/SMITA00306_R_LA.jpg,SMITA00306_R_LA.jpg,SMITA_306,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00336_R_LB.jpeg,SMITA00336_R_LB.jpeg,SMITA_336,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00332_R_LL.jpg,SMITA00332_R_LL.jpg,SMITA_332,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00214_W_VT.jpeg,SMITA00214_W_VT.jpeg,SMITA_214,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00161_R_LA.jpg,SMITA00161_R_LA.jpg,SMITA_161,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00059_R_DT.jpeg,SMITA00059_R_DT.jpeg,SMITA_59,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00019_R_VT.JPG,SMITA00019_R_VT.JPG,SMITA_19,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00207_R_UA.jpg,SMITA00207_R_UA.jpg,SMITA_207,01. Normal,0
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00021_W_RB.jpeg,SMITA00021_W_RB.jpeg,SMITA_21,03. OPMD,2
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00052_R_LB.jpg,SMITA00052_R_LB.jpg,SMITA_52,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00204_R_VT.jpg,SMITA00204_R_VT.jpg,SMITA_204,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00255_R_DT.jpg,SMITA00255_R_DT.jpg,SMITA_255,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00334_R_UA.jpeg,SMITA00334_R_UA.jpeg,SMITA_334,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00172_R_LA.jpg,SMITA00172_R_LA.jpg,SMITA_172,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00147_R_DT.jpg,SMITA00147_R_DT.jpg,SMITA_147,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00190_R_VT.jpeg,SMITA00190_R_VT.jpeg,SMITA_190,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00215_W_UA.jpeg,SMITA00215_W_UA.jpeg,SMITA_215,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00201_R_UL.jpeg,SMITA00201_R_UL.jpeg,SMITA_201,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00050_R_VT.jpg,SMITA00050_R_VT.jpg,SMITA_50,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00144_R_VT.jpg,SMITA00144_R_VT.jpg,SMITA_144,01. Normal,0
+03. OPMD/01. Unannotated/04. Right buccal mucosa/SMITA00279_W_RB.jpeg,SMITA00279_W_RB.jpeg,SMITA_279,03. OPMD,2
+01. Normal/01. Unannotated/07. Upper arch/SMITA00172_R_UA.jpg,SMITA00172_R_UA.jpg,SMITA_172,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00050_R_DT.jpg,SMITA00050_R_DT.jpg,SMITA_50,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00001_W_LB.jpeg,SMITA00001_W_LB.jpeg,SMITA_1,03. OPMD,2
+01. Normal/01. Unannotated/08. Lower arch/SMITA00163_R_LA.jpg,SMITA00163_R_LA.jpg,SMITA_163,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00018_R_LB.JPG,SMITA00018_R_LB.JPG,SMITA_18,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00011_R_LA.JPG,SMITA00011_R_LA.JPG,SMITA_11,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00270_W_LB.jpeg,SMITA00270_W_LB.jpeg,SMITA_270,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00272_W_VT.jpeg,SMITA00272_W_VT.jpeg,SMITA_272,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00215_W_VT.jpeg,SMITA00215_W_VT.jpeg,SMITA_215,01. Normal,0
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00330_R_RB.jpg,SMITA00330_R_RB.jpg,SMITA_330,02. Variation from normal,1
+01. Normal/01. Unannotated/07. Upper arch/SMITA00343_R_UA.jpeg,SMITA00343_R_UA.jpeg,SMITA_343,01. Normal,0
+04. Oral Cancer/01. Unannotated/02. Ventral tongue/6026.jpg,6026.jpg,OTHER_6026,04. Oral Cancer,3
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00319_R_DT.jpg,SMITA00319_R_DT.jpg,SMITA_319,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00076_R_UL.jpeg,SMITA00076_R_UL.jpeg,SMITA_76,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00132_R_UA.jpg,SMITA00132_R_UA.jpg,SMITA_132,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00277_W_DT.jpeg,SMITA00277_W_DT.jpeg,SMITA_277,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00217_W_UA.jpeg,SMITA00217_W_UA.jpeg,SMITA_217,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00171_R_LL.jpeg,SMITA00171_R_LL.jpeg,SMITA_171,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00280_W_LA.jpeg,SMITA00280_W_LA.jpeg,SMITA_280,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00076_R_UA.jpeg,SMITA00076_R_UA.jpeg,SMITA_76,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00134_R_DT.jpg,SMITA00134_R_DT.jpg,SMITA_134,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00250_R_LA.jpg,SMITA00250_R_LA.jpg,SMITA_250,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00065_R_VT.jpeg,SMITA00065_R_VT.jpeg,SMITA_65,01. Normal,0
+02. Variation from normal/01. Unannotated/01. Dorsal tongue/SMITA00011_W_DT2.jpeg,SMITA00011_W_DT2.jpeg,SMITA_11,02. Variation from normal,1
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00307_R_DT.jpg,SMITA00307_R_DT.jpg,SMITA_307,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00161_R_LL.jpg,SMITA00161_R_LL.jpg,SMITA_161,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00075_R_LA.jpeg,SMITA00075_R_LA.jpeg,SMITA_75,01. Normal,0
+01. Normal/01. Unannotated/05. Upper lip/SMITA00330_R_UL.jpg,SMITA00330_R_UL.jpg,SMITA_330,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00293_R_LL.jpeg,SMITA00293_R_LL.jpeg,SMITA_293,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA000256_R_RB.jpeg,SMITA000256_R_RB.jpeg,SMITA_256,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00185_W_LA.jpeg,SMITA00185_W_LA.jpeg,SMITA_185,01. Normal,0
+01. Normal/01. Unannotated/08. Lower arch/SMITA00005_W_LA.jpg,SMITA00005_W_LA.jpg,SMITA_5,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00221_W_LB.jpeg,SMITA00221_W_LB.jpeg,SMITA_221,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00242_R_UA.jpg,SMITA00242_R_UA.jpg,SMITA_242,01. Normal,0
+01. Normal/01. Unannotated/07. Upper arch/SMITA00323_R_UA.jpg,SMITA00323_R_UA.jpg,SMITA_323,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00067_R_VT.jpeg,SMITA00067_R_VT.jpeg,SMITA_67,01. Normal,0
+01. Normal/01. Unannotated/06. Lower lip/SMITA00203_R_LL.jpeg,SMITA00203_R_LL.jpeg,SMITA_203,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00081_R_LB.jpeg,SMITA00081_R_LB.jpeg,SMITA_81,01. Normal,0
+02. Variation from normal/01. Unannotated/07. Upper arch/SMITA00288_R_UA.jpg,SMITA00288_R_UA.jpg,SMITA_288,02. Variation from normal,1
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00109_R_RB.jpg,SMITA00109_R_RB.jpg,SMITA_109,01. Normal,0
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00001_W_VT.jpeg,SMITA00001_W_VT.jpeg,SMITA_1,01. Normal,0
+03. OPMD/01. Unannotated/03. Left buccal mucosa/SMITA00214_W_LB.jpeg,SMITA00214_W_LB.jpeg,SMITA_214,03. OPMD,2
+01. Normal/01. Unannotated/02. Ventral tongue/SMITA00146_R_VT.jpeg,SMITA00146_R_VT.jpeg,SMITA_146,01. Normal,0
+04. Oral Cancer/01. Unannotated/07. Upper arch/Ca 1.JPG,Ca 1.JPG,CA_1,04. Oral Cancer,3
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00065_R_RB.jpeg,SMITA00065_R_RB.jpeg,SMITA_65,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00076_R_DT.jpeg,SMITA00076_R_DT.jpeg,SMITA_76,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00062_R_DT.jpeg,SMITA00062_R_DT.jpeg,SMITA_62,01. Normal,0
+01. Normal/01. Unannotated/04. Right buccal mucosa/SMITA00335_R_RB.jpeg,SMITA00335_R_RB.jpeg,SMITA_335,01. Normal,0
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA00318_R_LB.jpg,SMITA00318_R_LB.jpg,SMITA_318,01. Normal,0
+01. Normal/01. Unannotated/01. Dorsal tongue/SMITA00343_R_DT.jpeg,SMITA00343_R_DT.jpeg,SMITA_343,01. Normal,0
+02. Variation from normal/01. Unannotated/04. Right buccal mucosa/SMITA00189_W_RB.jpg,SMITA00189_W_RB.jpg,SMITA_189,02. Variation from normal,1
+01. Normal/01. Unannotated/03. Left buccal mucosa/SMITA000232_R_LB.jpeg,SMITA000232_R_LB.jpeg,SMITA_232,01. Normal,0
