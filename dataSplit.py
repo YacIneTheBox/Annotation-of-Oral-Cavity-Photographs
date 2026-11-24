@@ -56,10 +56,14 @@ test_df["filename"].to_csv("splits/exam_list.txt", index=False, header=False)
 
 print("Shape : ")
 print(train_df.shape)
+print("##############################################")
 print("Columns : ")
 print(train_df.columns)
+print("##############################################")
 print("Count Null Val : ")
 print(train_df.isna().sum())
+
+print("##############################################")
 
 
 total = len(train_df) + len(test_df)
