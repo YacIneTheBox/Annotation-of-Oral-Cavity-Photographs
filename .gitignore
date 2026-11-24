@@ -225,3 +225,31 @@ __marimo__/
 # Datasets
 SMART-OM/
 
+# ---- Data: never push images or datasets (large files, dataset licences) ----
+data/raw/*
+!data/raw/.gitkeep
+data/pool/*
+!data/pool/.gitkeep
+SMART-OM/
+datasets/
+set1_pool/
+*.zip
+
+# ---- Model weights and checkpoints ----
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# ---- Python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ---- Editors and OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
