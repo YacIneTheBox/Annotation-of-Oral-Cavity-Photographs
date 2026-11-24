@@ -6,6 +6,7 @@ import torch
 from torch.utils.data import Dataset, DataLoader
 from torchvision import models, transforms
 from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import Normalizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import make_pipeline
 from sklearn.metrics import balanced_accuracy_score, roc_auc_score, classification_report
@@ -50,7 +51,7 @@ X_test, y_test = extract_features(test_loader)
 
 # 4. Linear probe avec gestion du déséquilibre
 clf = make_pipeline(
-    StandardScaler(),
+    Normalizer(),
     LogisticRegression(max_iter=1000, class_weight="balanced", random_state=42),
 )
 clf.fit(X_train, y_train)
